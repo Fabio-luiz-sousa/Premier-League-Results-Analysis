@@ -10,3 +10,5 @@ Por ser minha primeira análise exploratória, fiz uma análise simples dos resu
 - Qual a média de gols total por temporada ?
 - Qual o total de gols por temporada ?
 - Qual a média de cartões amarelos e vermelhos por temporada ?
+
+### **Para visualizar o notebook com os gráficos [clique aqui](https://nbviewer.org/github/Fabio-luiz-sousa/Premier-League-Results-Analysis/blob/6e3bd3cd76d9aeb62ab58172333ce45b646149f4/premier_league_analysis.ipynb)**
